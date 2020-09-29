@@ -29,5 +29,5 @@ Professionally, I code for myself, from automating some of my workflows to worki
 
 ### My Social Profiles:
 - Charan <a href="https://www.instagram.com/charan.h.u">
-  <img align="left" alt="" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/150px-Instagram_logo_2016.svg.png" />
+  <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/150px-Instagram_logo_2016.svg.png" />
 </a> 
