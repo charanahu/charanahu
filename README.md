@@ -39,5 +39,5 @@ Professionally, I code for myself, from automating some of my workflows to worki
 </a>
 
 - Charan <a href="https://www.pinterest.com/charan_h_u/">
-  <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pinterest_Logo.svg/375px-Pinterest_Logo.svg.png" />
+  <img align="left" alt="" width="22px" src="https://emsummit.eventmarketer.com/wp-content/uploads/sites/44/2020/02/pinterest-logo.png" />
 </a>
