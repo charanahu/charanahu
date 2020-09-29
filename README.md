@@ -4,9 +4,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=charanhu.visitor-badge)
 
-```
-$ alias cd='rm -rf'
-```
+
 Professionally, I code for myself, from automating some of my workflows to working on full-blown projects. You can find some interesting ones on Computer Vision, Deep Learning and Game AIs in my GitHub profile. 
 
 
