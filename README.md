@@ -28,6 +28,6 @@ Professionally, I code for myself, from automating some of my workflows to worki
 
 
 ### My Social Profiles:
-- <a href="https://www.instagram.com/charan.h.u">
+- Charan <a href="https://www.instagram.com/charan.h.u">
   <img align="left" alt="" width="70px" src="https://d1afx9quaogywf.cloudfront.net/sites/default/files/Logos/Instagram400x230.png" />
 </a> 
