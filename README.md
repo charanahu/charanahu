@@ -39,5 +39,5 @@ Professionally, I code for myself, from automating some of my workflows to worki
 </a>
 
 - Charan <a href="https://www.pinterest.com/charan_h_u/">
-  <img align="left" alt="" width="42px" src="https://miro.medium.com/fit/c/336/336/1*FNWs-r9nA_QNtBbYvUkAtg.png" />
+  <img align="left" alt="" width="22px" src="https://miro.medium.com/fit/c/336/336/1*FNWs-r9nA_QNtBbYvUkAtg.png" />
 </a>
