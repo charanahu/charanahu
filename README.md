@@ -38,6 +38,6 @@ Professionally, I code for myself, from automating some of my workflows to worki
   <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/150px-Facebook_f_logo_%282019%29.svg.png" />
 </a>
 
-- Charan <a href="https://www.instagram.com/charan.h.u">
-  <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/150px-Instagram_logo_2016.svg.png" />
+- Charan <a href="https://www.pinterest.com/charan_h_u/">
+  <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pinterest_Logo.svg/375px-Pinterest_Logo.svg.png" />
 </a>
