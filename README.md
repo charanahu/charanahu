@@ -29,3 +29,15 @@ Professionally, I code for myself, from automating some of my workflows to worki
 - Charan <a href="https://www.instagram.com/charan.h.u">
   <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/150px-Instagram_logo_2016.svg.png" />
 </a> 
+
+- Charan <a href="https://www.twitter.com/Charan_H_U">
+  <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Twitter_bird_logo_2012.svg/150px-Twitter_bird_logo_2012.svg.png" />
+</a>
+
+- Charan <a href="https://www.facebook.com/Charan.H.Umesh">
+  <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/150px-Facebook_f_logo_%282019%29.svg.png" />
+</a>
+
+- Charan <a href="https://www.instagram.com/charan.h.u">
+  <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/150px-Instagram_logo_2016.svg.png" />
+</a>
