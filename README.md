@@ -1,6 +1,6 @@
 ![tree-tree2](https://github.com/charanhu/Charan/blob/master/RedwoodJS.png?raw=true)
 ![tree-tree2](https://isteam.wsimg.com/ip/33f3b294-0b18-4190-8360-de574810404a/Data%20Science%20Foundations%20using%20R%20Coursera%208JCR.jpg/:/rs=w:1950px,h:1200px)
-## You've found Sourav Johar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## You've found Charan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=charanhu.visitor-badge)
 
