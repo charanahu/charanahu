@@ -25,3 +25,9 @@ Professionally, I code for myself, from automating some of my workflows to worki
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=charanhu&show_icons=true&theme=merko&count_private=true&include_all_commits=true"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&theme=merko&hide=html,php,css&layout=compact)](https://github.com/charanhu/github-readme-stats)
+
+
+### My Social Profiles:
+- <a href="https://www.instagram.com/charan.h.u">
+  <img align="left" alt="" width="22px" src="https://d1afx9quaogywf.cloudfront.net/sites/default/files/Logos/Instagram400x230.png" />
+</a> 
