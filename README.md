@@ -32,10 +32,10 @@ Professionally, I code for myself, from automating some of my workflows to worki
 ---
 
 ### My Social Profiles:<img src="https://media.giphy.com/media/3o72EUVzqzm8V1P9qU/giphy.gif" width="50">
-<a href="https://www.twitter.com/Charan_H_U"><img align="left" alt="" width="22px" src="social/3.png" />
+<a href="https://www.twitter.com/Charan_H_U"><img align="left" alt="" width="50" src="social/3.png" />
 </a><a href="https://www.instagram.com/charan.h.u"><img align="left" alt=""  width="50" src="social/1.png" />
-</a><a href="https://www.facebook.com/Charan.H.Umesh"><img align="left" alt="" width="22px" src="social/2.png" />
-</a><a href="https://www.pinterest.com/charan_h_u/"><img align="left" alt="" width="22px" src="social/4.png" />
-</a><a href="https://www.linkedin.com/in/charanhu/"><img align="left" alt="" width="32px" src="social/5.png" />
+</a><a href="https://www.facebook.com/Charan.H.Umesh"><img align="left" alt="" width="50" src="social/2.png" />
+</a><a href="https://www.pinterest.com/charan_h_u/"><img align="left" alt="" width="50" src="social/4.png" />
+</a><a href="https://www.linkedin.com/in/charanhu/"><img align="left" alt="" width="50" src="social/5.png" />
 </a>
 
