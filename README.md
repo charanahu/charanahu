@@ -24,6 +24,12 @@ Professionally, I code for myself, from automating some of my workflows to worki
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&theme=merko&hide=html,php,css&layout=compact)](https://github.com/charanhu/github-readme-stats)
 
+### Work/Projects:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&count_private=true&show_icons=true&theme=radical&layout=compact)]() [![Github Stats](https://github-readme-stats.sakshi-25.vercel.app/api?username=charanhu&show_icons=true&include_all_commits=true&theme=radical)]()
+
+
+
+
 ### Languages and Tools:
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /> 
 ---
