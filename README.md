@@ -1,5 +1,5 @@
 ![tree-tree2](https://github.com/charanhu/Charan/blob/master/RedwoodJS.png?raw=true)
-![tree-tree2](https://isteam.wsimg.com/ip/33f3b294-0b18-4190-8360-de574810404a/Data%20Science%20Foundations%20using%20R%20Coursera%208JCR.jpg/:/rs=w:1950px,h:1200px)
+
 ## You've found Charan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=charanhu.visitor-badge)
@@ -24,6 +24,9 @@ Professionally, I code for myself, from automating some of my workflows to worki
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&theme=merko&hide=html,php,css&layout=compact)](https://github.com/charanhu/github-readme-stats)
 
+### Languages and Tools:
+<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /> 
+---
 
 ### My Social Profiles:
 - Charan <a href="https://www.instagram.com/charan.h.u">
