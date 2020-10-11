@@ -20,12 +20,12 @@ Professionally, I code for myself, from automating some of my workflows to worki
 
 ### GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=charanhu&show_icons=true&theme=merko&count_private=true&include_all_commits=true"/>
+<p align="left"> <img src="https://github-readme-stats.sakshi-25.vercel.app/api?username=charanhu&show_icons=true&include_all_commits=true&theme=radical"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&theme=merko&hide=html,php,css&layout=compact)](https://github.com/charanhu/github-readme-stats)
 
 ### Work/Projects:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&count_private=true&show_icons=true&theme=radical&layout=compact)]() [![Github Stats](https://github-readme-stats.sakshi-25.vercel.app/api?username=charanhu&show_icons=true&include_all_commits=true&theme=radical)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&count_private=true&show_icons=true&theme=radical&&hide=html,layout=compact)]() [![Github Stats](https://github-readme-stats.sakshi-25.vercel.app/api?username=charanhu&show_icons=true&include_all_commits=true&theme=radical)]()
 
 
 
