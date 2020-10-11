@@ -38,6 +38,7 @@ Professionally, I code for myself, from automating some of my workflows to worki
 </a><a href="https://www.pinterest.com/charan_h_u/"><img align="left" alt="" width="50" src="social/4.png" />
 </a><a href="https://www.linkedin.com/in/charanhu/"><img align="left" alt="" width="50" src="social/5.png" />
 </a><a href="https://www.youtube.com/channel/UC5G69gMrQIfWzNwzz0Y14Lg"><img align="left" alt="" width="50" src="social/8.png" />
+</a><a href="https://wa.me/+919481368353"><img align="left" alt="" width="50" src="social/7.png" />
 </a><a href="https://t.me/charanhu"><img align="left" alt="" width="50" src="social/6.png" />
 </a><a href="https://wrytin.com/charan1"><img align="left" alt="" width="50" src="social/11.png" />
 </a>
