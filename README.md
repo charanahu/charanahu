@@ -32,7 +32,7 @@ Professionally, I code for myself, from automating some of my workflows to worki
 ---
 
 ### My Social Profiles:<img src="https://media.giphy.com/media/3o72EUVzqzm8V1P9qU/giphy.gif" width="50">
-<a href="https://www.instagram.com/charan.h.u"><img align="left" alt=""  src="social/1.png" />
+<a href="https://www.instagram.com/charan.h.u"><img align="left" alt="" width="50%"  src="social/1.png" />
 </a><a href="https://www.twitter.com/Charan_H_U"><img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Twitter_bird_logo_2012.svg/150px-Twitter_bird_logo_2012.svg.png" />
 </a><a href="https://www.facebook.com/Charan.H.Umesh"><img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/150px-Facebook_f_logo_%282019%29.svg.png" />
 </a><a href="https://www.pinterest.com/charan_h_u/"><img align="left" alt="" width="22px" src="https://miro.medium.com/fit/c/336/336/1*FNWs-r9nA_QNtBbYvUkAtg.png" />
