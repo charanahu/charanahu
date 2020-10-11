@@ -44,5 +44,5 @@ Professionally, I code for myself, from automating some of my workflows to worki
 - Charan <a href="https://www.pinterest.com/charan_h_u/"><img align="left" alt="" width="22px" src="https://miro.medium.com/fit/c/336/336/1*FNWs-r9nA_QNtBbYvUkAtg.png" />
 </a>
 
-<a href="https://www.twitter.com/Charan_H_U"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" /></a> 
+<a href="https://www.twitter.com/Charan_H_U"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" /></a> <a href="https://www.twitter.com/Charan_H_U"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" /></a>
 ---
