@@ -21,7 +21,7 @@ Professionally, I code for myself, from automating some of my workflows to worki
 ### GitHub Stats
 
 ### Work/Projects:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&count_private=true&show_icons=true&theme=radical&layout=compact)]() [![Github Stats](https://github-readme-stats.sakshi-25.vercel.app/api?username=charanhu&show_icons=true&include_all_commits=true&theme=radical)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&count_private=true&show_icons=true&theme=radical&layout=compact)]() [![Github Stats](https://github-readme-stats.charanhu.vercel.app/api?username=charanhu&show_icons=true&include_all_commits=true&theme=radical)]()
 
 
 
