@@ -11,11 +11,11 @@ Professionally, I code for myself, from automating some of my workflows to worki
   
 ### More about me:
 
-- I have a YouTube channel where I try my best to share knowledge on code<a href="https://www.youtube.com/channel/UCN2IlH95pQZj-J9PdS2NjIA">
+- I have a YouTube channel where I try my best to share knowledge on code.<a href="https://www.youtube.com/channel/UCN2IlH95pQZj-J9PdS2NjIA">
   <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Walou.jpg" />
 </a>
 
-- I've helped digitise the workflow for several small businesses
+- I've helped digitise the workflow for several small businesses.
 
 ### GitHub Stats
 
