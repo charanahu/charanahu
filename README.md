@@ -15,7 +15,7 @@ Professionally, I code for myself, from automating some of my workflows to worki
   <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Walou.jpg" />
 </a>
 
-- I've helped digitise the workflow for several small businesses.
+- I've helped digitise the workflow for several small businesses
 
 ### GitHub Stats
 
