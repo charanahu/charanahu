@@ -11,7 +11,7 @@ Professionally, I code for myself, from automating some of my workflows to worki
   
 ### More about me:
 
-- I have a YouTube channel where I try my best to share knowledge on code.<a href="https://www.youtube.com/CharanHU">
+- I have a YouTube channel where I try my best to share knowledge on code.<a href="https://www.youtube.com/cDroid">
   <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Walou.jpg" />
 </a>
 
@@ -41,7 +41,7 @@ Professionally, I code for myself, from automating some of my workflows to worki
 </a><a href="https://www.facebook.com/iamcharanhu/"><img align="left" alt="" width="50" src="social/2.png" />
 </a><a href="https://www.pinterest.com/charan_h_u/"><img align="left" alt="" width="50" src="social/4.png" />
 </a><a href="https://www.linkedin.com/in/charanhu/"><img align="left" alt="" width="50" src="social/5.png" />
-</a><a href="https://www.youtube.com/CharanHU"><img align="left" alt="" width="50" src="social/8.png" />
+</a><a href="https://www.youtube.com/cDroid"><img align="left" alt="" width="50" src="social/8.png" />
 </a><a href="https://t.me/charanhu"><img align="left" alt="" width="50" src="social/6.png" />
 </a><a href="https://wrytin.com/charan1"><img align="left" alt="" width="50" src="social/12.png" />
 </a><a href="https://medium.com/@charanhu"><img align="left" alt="" width="50" src="social/11.png" />
