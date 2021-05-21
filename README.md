@@ -17,12 +17,15 @@ Professionally, I code for myself, from automating some of my workflows to worki
 
 - I've helped digitise the workflow for several small businesses
 
-### GitHub Stats
+## &#x1f4c8; GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=charanhu&show_icons=true&theme=merko&count_private=true&include_all_commits=true"/>
+<a href="https://github.com/charanhu/charanhu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&show_icons=true&theme=merko&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Charan's GitHub Stats" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&theme=merko&hide=html,php,css&layout=compact)](https://github.com/charanhu/github-readme-stats)
-
+<a href="https://github.com/charanhu/charanhu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=charanhu&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Charan's GitHub Stats" />
+</a>
 
 
 
