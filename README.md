@@ -17,7 +17,7 @@ Professionally, I code for myself, from automating some of my workflows to worki
 
 - I've helped digitise the workflow for several small businesses
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; Charan's GitHub Stats
 
 <a href="https://github.com/charanhu/charanhu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&show_icons=true&theme=merko&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Charan's GitHub Stats" />
