@@ -1,8 +1,8 @@
 ![tree-tree2](https://github.com/charanhu/Charan/blob/master/RedwoodJS.png?raw=true)
 
-## ## Hi there 👋, I am Charan, Machine Learning Eenthusiast. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## ## Hi there 👋, I am Charan, Machine Learning enthusiast. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-*TensorFlow, Keras, OpenCV, Computer Vision, Object Detection, Object Tracking, Tesseract OCR*
+* *
 
 ![Profile visitors](https://visitor-badge.glitch.me/badge?page_id=charanhu.visitor-badge)
 
