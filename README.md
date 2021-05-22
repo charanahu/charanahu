@@ -24,7 +24,7 @@ Professionally, I code for myself, from automating some of my workflows to worki
 </a>
 
 <a href="https://github.com/charanhu/charanhu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=charanhu&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Charan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=charanhu&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&html=false" alt="Charan's GitHub Stats" />
 </a>
 
 
