@@ -21,6 +21,8 @@ Professionally, I code for myself, from automating some of my workflows to worki
   <img src="https://github.com/charanhu/charanhu/blob/master/social/3.png"></a>
 <a href="https://www.instagram.com/charan_hu">
   <img src="https://github.com/charanhu/charanhu/blob/master/social/1.png"></a>
+<a href="https://charanhu.medium.com">
+  <img src="https://github.com/charanhu/charanhu/blob/master/social/11.png"></a>
 <a href="https://www.facebook.com/iamcharanhu">
   <img src="https://github.com/charanhu/charanhu/blob/master/social/2.png"></a>
   
