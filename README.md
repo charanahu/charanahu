@@ -12,8 +12,12 @@ Professionally, I code for myself, from automating some of my workflows to worki
 - 📫 How to reach me:
 <a href="https://www.linkedin.com/in/charanhu">
   <img src="https://github.com/charanhu/charanhu/blob/master/social/5.png"></a>
-<a href="https://t.me/charanhu"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"></a>
-<a href="mailto:charanhumail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+<a href="mailto:charanhumail@gmail.com">
+  <img src="https://github.com/charanhu/charanhu/blob/master/social/gmail.png"></a>
+<a href="https://t.me/charanhu">
+  <img src="https://github.com/charanhu/charanhu/blob/master/social/6.png"></a>
+<a href="https://www.twitter.com/chara_h_u">
+  <img src="https://github.com/charanhu/charanhu/blob/master/social/3.png"></a>
 
 [![Rustam's GitHub stats](https://github-readme-stats.vercel.app/api?username=charanhu&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
