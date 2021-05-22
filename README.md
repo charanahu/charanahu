@@ -12,8 +12,7 @@ Professionally, I code for myself, from automating some of my workflows to worki
 
 
 
-## 📫![image](https://user-images.githubusercontent.com/52596822/119233330-1f2bc880-bb46-11eb-91b5-5f62a931cb67.png)
- How to reach me:
+## 📫![image](https://user-images.githubusercontent.com/52596822/119233330-1f2bc880-bb46-11eb-91b5-5f62a931cb67.png) How to reach me:
 <a href="https://www.linkedin.com/in/charanhu">
   <img src="https://github.com/charanhu/charanhu/blob/master/social/5.png"></a>
 <a href="https://t.me/charanhu">
