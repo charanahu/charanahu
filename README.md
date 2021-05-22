@@ -24,6 +24,6 @@ Professionally, I code for myself, from automating some of my workflows to worki
   
 ## My GitHub Journey
 
-![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=charanhu&count_private=true&show_icons=true&theme=tokyonight)
+![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=charanhu&count_private=true&show_icons=true&theme=highcontrast)
 
 <!-- If you are reading this believe me you can achieve big results! Always remember why you have started. -->
