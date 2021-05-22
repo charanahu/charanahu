@@ -1,7 +1,8 @@
 ![tree-tree2](https://github.com/charanhu/Charan/blob/master/RedwoodJS.png?raw=true)
 
 ## You've found Charan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+## Hi there 👋, I am Rustam, Machine Learning Eenthusiast and CSE student at Inha University.
+*TensorFlow, Keras, OpenCV, Computer Vision, Object Detection, Object Tracking, Tesseract OCR*
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=charanhu.visitor-badge)
  
 
@@ -9,8 +10,7 @@ Professionally, I code for myself, from automating some of my workflows to worki
 
 
   
-## Hi there 👋, I am Rustam, Machine Learning Eenthusiast and CSE student at Inha University.
-*TensorFlow, Keras, OpenCV, Computer Vision, Object Detection, Object Tracking, Tesseract OCR*
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rustam-Z" alt="Rustam-Z"/> </p> 
 
