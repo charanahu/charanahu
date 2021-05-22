@@ -9,40 +9,20 @@ Professionally, I code for myself, from automating some of my workflows to worki
 
 
   
-### More about me:
+## Hi there 👋, I am Rustam, Machine Learning Eenthusiast and CSE student at Inha University.
+*TensorFlow, Keras, OpenCV, Computer Vision, Object Detection, Object Tracking, Tesseract OCR*
 
-- I have a YouTube channel where I try my best to share knowledge on code.<a href="https://www.youtube.com/cDroid">
-  <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Walou.jpg" />
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rustam-Z" alt="Rustam-Z"/> </p> 
 
-- I've helped digitise the workflow for several small businesses
+- 🤖 The goal is not learning Machine Learning, the goal is to learn how to build software with ML models. I'm currectly mastering TensorFlow following [TensorFlow curriculums](https://www.tensorflow.org/resources/learn-ml) to build NLP project in the summer 2021.
+- 🥅 2021 Goals: read <a style="text-decoration: none;" href="https://github.com/Rustam-Z/deep-learning-notes#books"> 5 books on data science</a>, solve 20 Kaggle, and join strong Data Science team.
+- ⚡ Fun fact: I deleted all my social media apps. Except for LinkedIn, for professional purposes only. Honestly)
+- 🚀 My mission: By every step I am doing I want to make the future better! Help people, and share knowledge! 
+- 📫 How to reach me:
+<a href="https://www.linkedin.com/in/Rustam-Z"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+<a href="https://t.me/rz_zokirov"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"></a>
+<a href="mailto:zokirovrustam202@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
-## &#x1f4c8; Charan's GitHub Stats
+[![Rustam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rustam-Z&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/charanhu/charanhu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&show_icons=true&theme=merko&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Charan's GitHub Stats" />
-</a>
-
-<a href="https://github.com/charanhu/charanhu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=charanhu&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&html=false" alt="Charan's GitHub Stats" />
-</a>
-
-
-
-
-### Languages and Tools:
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /> <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />  <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /> <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
----
-
-### My Social Profiles:<img src="https://media.giphy.com/media/3o72EUVzqzm8V1P9qU/giphy.gif" width="50">
-<a href="https://www.twitter.com/Charan_H_U"><img align="left" alt="" width="50" src="social/3.png" />
-</a><a href="https://www.instagram.com/charan_hu/"><img align="left" alt="" width="50" src="social/1.png" />
-</a><a href="https://leetcode.com/charanhu/"><img align="left" alt="" width="50" src="social/10.png" />
-</a><a href="https://www.facebook.com/iamcharanhu/"><img align="left" alt="" width="50" src="social/2.png" />
-</a><a href="https://www.pinterest.com/charan_h_u/"><img align="left" alt="" width="50" src="social/4.png" />
-</a><a href="https://www.linkedin.com/in/charanhu/"><img align="left" alt="" width="50" src="social/5.png" />
-</a><a href="https://www.youtube.com/cDroid"><img align="left" alt="" width="50" src="social/8.png" />
-</a><a href="https://t.me/charanhu"><img align="left" alt="" width="50" src="social/6.png" />
-</a><a href="https://wrytin.com/charan1"><img align="left" alt="" width="50" src="social/12.png" />
-</a><a href="https://medium.com/@charanhu"><img align="left" alt="" width="50" src="social/11.png" />
-</a>
+<!-- If you are reading this believe me you can achieve big results! Always remember why you have started. -->
