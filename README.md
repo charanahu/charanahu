@@ -12,7 +12,7 @@ Professionally, I code for myself, from automating some of my workflows to worki
 
 
 
-- 📫 How to reach me:
+## - 📫 How to reach me:
 <a href="https://www.linkedin.com/in/charanhu">
   <img src="https://github.com/charanhu/charanhu/blob/master/social/5.png"></a>
 <a href="https://t.me/charanhu">
