@@ -28,7 +28,8 @@ Professionally, I code for myself, from automating some of my workflows to worki
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&hide=javascript,tex,php,dart,html,css,scss)](https://github.com/charanhu/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charanhu)](https://github.com/charanhu/github-readme-stats)
+[![Charan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charanhu)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!-- If you are reading this believe me you can achieve big results! Always remember why you have started. -->
