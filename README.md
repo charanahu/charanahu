@@ -2,7 +2,6 @@
 
 ## ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Charan, Machine Learning enthusiast.
 
-* *
 
 ![Profile visitors](https://visitor-badge.glitch.me/badge?page_id=charanhu.visitor-badge)
 
@@ -25,6 +24,6 @@ Professionally, I code for myself, from automating some of my workflows to worki
 <a href="https://www.facebook.com/iamcharanhu">
   <img src="https://github.com/charanhu/charanhu/blob/master/social/2.png"></a>
 
-[![Rustam's GitHub stats](https://github-readme-stats.vercel.app/api?username=charanhu&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=charanhu&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- If you are reading this believe me you can achieve big results! Always remember why you have started. -->
