@@ -4,10 +4,7 @@
 
 *TensorFlow, Keras, OpenCV, Computer Vision, Object Detection, Object Tracking, Tesseract OCR*
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=charanhu.visitor-badge)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charanhu" alt="Rustam-Z"/> </p>
- 
+![Profile visitors](https://visitor-badge.glitch.me/badge?page_id=charanhu.visitor-badge)
 
 Professionally, I code for myself, from automating some of my workflows to working on full-blown projects. You can find some interesting ones on Computer Vision, Deep Learning and Game AIs in my GitHub profile. Experienced Coordinator with a demonstrated history of working in the computer software industry, information technology industry and entrepreneurship space. Skilled in the Python, Data Science, Big Data, Machine Learning, Application Development, Application of Management, Product Innovation, Leadership, and Engineering for solving real-world problems. A strong business development professional with a Bachelor of Engineering(BE) focused on global enterprise, consulting, and entrepreneurship from Visvesvaraya Technological University. 
 
