@@ -26,7 +26,7 @@ Professionally, I code for myself, from automating some of my workflows to worki
 
 ![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=charanhu&count_private=true&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&hide=javascript,php,r,dart,html,css,scss)](https://github.com/charanhu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&hide=javascript,tex,php,r,dart,html,css,scss)](https://github.com/charanhu/github-readme-stats)
 
 
 <!-- If you are reading this believe me you can achieve big results! Always remember why you have started. -->
