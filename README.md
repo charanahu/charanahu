@@ -23,6 +23,8 @@ Professionally, I code for myself, from automating some of my workflows to worki
   <img src="https://github.com/charanhu/charanhu/blob/master/social/1.png"></a>
 <a href="https://www.facebook.com/iamcharanhu">
   <img src="https://github.com/charanhu/charanhu/blob/master/social/2.png"></a>
+  
+## My GitHub Journey
 
 ![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=charanhu&count_private=true&show_icons=true&theme=tokyonight)
 
