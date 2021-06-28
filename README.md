@@ -1,4 +1,4 @@
-![tree-tree2](https://github.com/charanhu/charanhu/blob/master/social/Charan%20H%20U.png?raw=true)
+![tree-tree2](https://github.com/charanhu/charanhu/blob/master/social/Charan_H_U.png)
 
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Charan, Machine Learning enthusiast.
 
