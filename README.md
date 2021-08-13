@@ -7,25 +7,11 @@
 
 I'm a final year student at SDMIT, Ujire pursuing B.E. in Information Science Engineering. Being a technology enthusiast, I love to explore new technologies and leverage them to solve real-life problems. I'm driven by the will to create an impact and encourage diversity and inclusion in communities.
 
-https://www.youtube.com/cdroid 
-
-Here, you will be getting educational, technical, and lifestyle videos.
-
-GitHub: charanhu
-
-Twitter: charan_h_u
-
-charanhumail@gmail.com
-
-KA
-
-## Access my content through my YouTube Channel --> cDroid
+## Access my educational, technical, and lifestyle videos through my YouTube Channel --> cDroid
 <a href="https://www.youtube.com/cDroid"> <img src="https://github.com/charanhu/charanhu/blob/master/social/8.png"></a>  
 
 ## My blogs here
 <a href="https://charanhu.medium.com"><img src="https://github.com/charanhu/charanhu/blob/master/social/11.png"></a>
-
-
 
 ## 📫 How to reach me:
 <a href="https://www.linkedin.com/in/charanhu"><img src="https://github.com/charanhu/charanhu/blob/master/social/5.png"></a>
