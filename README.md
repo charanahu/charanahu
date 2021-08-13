@@ -12,7 +12,9 @@ https://www.youtube.com/cdroid
 Here, you will be getting educational, technical, and lifestyle videos.
 
 GitHub: charanhu
+
 Twitter: charan_h_u
+
 charanhumail@gmail.com
 
 KA
