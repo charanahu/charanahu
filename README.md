@@ -5,7 +5,17 @@
 
 ![Profile visitors](https://visitor-badge.glitch.me/badge?page_id=charanhu.visitor-badge)
 
-Professionally, I code for myself, from automating some of my workflows to working on full-blown projects. You can find some interesting ones on Computer Vision, Deep Learning and Game AIs in my GitHub profile. Experienced Coordinator with a demonstrated history of working in the computer software industry, information technology industry and entrepreneurship space. Skilled in the Python, Data Science, Big Data, Machine Learning, Application Development, Application of Management, Product Innovation, Leadership, and Engineering for solving real-world problems. A strong business development professional with a Bachelor of Engineering(BE) focused on global enterprise, consulting, and entrepreneurship from Visvesvaraya Technological University. 
+I'm a final year student at SDMIT, Ujire pursuing B.E. in Information Science Engineering. Being a technology enthusiast, I love to explore new technologies and leverage them to solve real-life problems. I'm driven by the will to create an impact and encourage diversity and inclusion in communities.
+
+https://www.youtube.com/cdroid 
+
+Here, you will be getting educational, technical, and lifestyle videos.
+
+GitHub: charanhu
+Twitter: charan_h_u
+charanhumail@gmail.com
+
+KA
 
 ## Access my content through my YouTube Channel --> cDroid
 <a href="https://www.youtube.com/cDroid"> <img src="https://github.com/charanhu/charanhu/blob/master/social/8.png"></a>  
