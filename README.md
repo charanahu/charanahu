@@ -16,7 +16,7 @@ I'm a final year student at SDMIT, Ujire pursuing B.E. in Information Science En
 ## 📫 How to reach me:
 <a href="https://www.linkedin.com/in/charanhu"><img src="https://github.com/charanhu/charanhu/blob/master/social/5.png"></a>
 <a href="https://t.me/charanhu"><img src="https://github.com/charanhu/charanhu/blob/master/social/6.png"></a>
-<a href="https://www.twitter.com/chara_h_u"><img src="https://github.com/charanhu/charanhu/blob/master/social/3.png"></a>
+<a href="https://www.twitter.com/charan_h_u"><img src="https://github.com/charanhu/charanhu/blob/master/social/3.png"></a>
 <a href="https://www.instagram.com/charan_hu"><img src="https://github.com/charanhu/charanhu/blob/master/social/1.png"></a>
 <a href="https://www.facebook.com/iamcharanhu"><img src="https://github.com/charanhu/charanhu/blob/master/social/2.png"></a>
   
