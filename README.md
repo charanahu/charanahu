@@ -3,7 +3,7 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Charan
 
 
-![Profile visitors](https://visitor-badge.glitch.me/badge?page_id=charanhu.visitor-badge)
+
 
 I'm a Information Science Graduate from Visvesvaraya Technological University, class of 2021. Being a technology enthusiast, I love to explore new technologies and leverage them to solve real-life problems. I'm driven by the will to create an impact and encourage diversity and inclusion in communities.
 
