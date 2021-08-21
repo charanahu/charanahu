@@ -5,7 +5,7 @@
 
 ![Profile visitors](https://visitor-badge.glitch.me/badge?page_id=charanhu.visitor-badge)
 
-I'm a final year student at SDMIT, Ujire pursuing B.E. in Information Science Engineering. Being a technology enthusiast, I love to explore new technologies and leverage them to solve real-life problems. I'm driven by the will to create an impact and encourage diversity and inclusion in communities.
+I'm a Information Science Graduate from Visvesvaraya Technological University, class of 2021. Being a technology enthusiast, I love to explore new technologies and leverage them to solve real-life problems. I'm driven by the will to create an impact and encourage diversity and inclusion in communities.
 
 ## Here, you will be getting educational, technical, and lifestyle videos.
 <a href="https://www.youtube.com/cDroid"> <img src="https://github.com/charanhu/charanhu/blob/master/social/8.png"></a>  
