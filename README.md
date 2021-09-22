@@ -7,7 +7,7 @@
 
 I'm a Information Science Graduate from Visvesvaraya Technological University, class of 2021. Being a technology enthusiast, I love to explore new technologies and leverage them to solve real-life problems. I'm driven by the will to create an impact and encourage diversity and inclusion in communities.
 
-## Here, you will be getting educational, technical, and lifestyle videos.
+## Here, you can access educational videos.
 <a href="https://www.youtube.com/cDroid"> <img src="https://github.com/charanhu/charanhu/blob/master/social/8.png"></a>  
 
 ## My blogs here
