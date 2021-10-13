@@ -13,7 +13,7 @@ I'm a Information Science Graduate from Visvesvaraya Technological University, c
 ## My blogs here
 <a href="https://charanhu.medium.com"><img src="https://github.com/charanhu/charanhu/blob/master/social/11.png"></a>
 
-## 📫 How to reach me:
+## How to reach me:
 <a href="https://www.linkedin.com/in/charanhu"><img src="https://github.com/charanhu/charanhu/blob/master/social/5.png"></a>
 <a href="https://www.twitter.com/charan_h_u"><img src="https://github.com/charanhu/charanhu/blob/master/social/3.png"></a>
 <a href="https://www.instagram.com/charan_hu"><img src="https://github.com/charanhu/charanhu/blob/master/social/1.png"></a>
