@@ -1,6 +1,6 @@
 <!-- ![tree-tree2]
 <!-- (https://github.com/charanhu/charanhu/blob/master/social/Charan_H_U.png) -->
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Charan
+## Hello, I'm Charan
 
 
 
