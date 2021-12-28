@@ -25,7 +25,7 @@
 
 
   
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=charanhu&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/charanhu/github-readme-stats)
+[![Charan's github stats](https://github-readme-stats.vercel.app/api?username=charanhu&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/charanhu/github-readme-stats)
 
 
 ### Check out my latest articles
@@ -35,12 +35,6 @@
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/3" alt="Recent Article 3">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/4" alt="Recent Article 4">
     
-### Packages I created
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charanhu&repo=top-github-scraper)](https://github.com/charanhu/top-github-scraper) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charanhu&repo=python_snippet)](https://github.com/charanhu/python_snippet)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charanhu&repo=strip_interactive)](https://github.com/charanhu/strip_interactive)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charanhu&repo=same-stats-different-graphs)](https://github.com/charanhu/same-stats-different-graphs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charanhu&repo=rich-dataframe)](https://github.com/charanhu/rich-dataframe)
 
 
 
