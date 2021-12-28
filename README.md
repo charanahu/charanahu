@@ -1,45 +1,31 @@
-### Hi there 👋
+### Hi there. I'm Charan 👋
 
-<!--
+
 **charanhu/charanhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Applied Data Science, Machine Learning & Deep Learning. I love math, programming, data science, and books.
+- 🌱 I’m addicted to learning, sharing and growing every day. I’m currently learning Applied Data Science, Machine Learning & Deep Learning.
+- 👯 I’m looking to collaborate on Data Science, Machine Learning & Deep Learning.
+- 🤔 I’m looking for help with Applied Data Science, Machine Learning & Deep Learning projects.
+- 💬 Ask me about Applied Data Science, Machine Learning & Deep Learning.
+- 📫 How to reach me:
+    - 📖: [LinkedIn](https://www.linkedin.com/in/charanahu/)
+    - 📩: [Twitter](https://twitter.com/charan_h_u)
+    - 💡: [Medium](https://medium.com/@charanhu)
+    - 📝: [Data Science Simplified](https://charanhu.medium.com/)
+    - 🎯: [Projects](https://github.com/charanhu/)
+    - 🔈: [Podcast](https://medium.com/@crtek/)
+    - 📹: [YouTube](https://youtube.com/crtek/)
+- 😄 Pronouns: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://medium.com/@charanhu) and [daily data science tips]
+- ⚡ Fun fact: I am currently sharing a little bit of my knowledge to the world through [my videos](https://youtube.com/crtek) and [daily data science tips]
+
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [1]: [Twitter](https://twitter.com/charan_h_u)
-
-
-
-### Hi there. I'm Charan 👋
-
-<!--
-**charanhu/charanhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-- :zap: I love math, programming, data science, and books
-- 🌱 I’m addicted to learning and growing every day
-- :earth_africa: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://medium.com/@charanhu) and [daily data science tips](https://mathdatasimplified.com/).
-- Connect with me on:
-  - :linkedin: [LinkedIn](https://www.linkedin.com/in/charanahu/)
-  - :twitter: [Twitter](https://twitter.com/charan_h_u)
-- 📫 Learn more about me on:  
-  - :bulb: [Medium](https://medium.com/@charanhu)
-  - :pencil2: [Data Science Simplified](https://charanhu.medium.com/)
-  - :dart: [Projects](https://github.com/charanhu/)
-  - :speaker: [Podcast](https://medium.com/@crtek/)
-  - :host: [YouTube](https://youtube.com/crtek/)
 
 
   
