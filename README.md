@@ -24,10 +24,6 @@ Here are some ideas to get you started: -->
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[1]: [Twitter](https://twitter.com/charan_h_u)
-
-
   
 [![Charan's github stats](https://github-readme-stats.vercel.app/api?username=charanhu&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/charanhu/github-readme-stats)
 
