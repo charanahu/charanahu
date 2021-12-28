@@ -11,15 +11,15 @@ Here are some ideas to get you started: -->
 - 🤔 I’m looking for help with Applied Data Science, Machine Learning & Deep Learning projects.
 - 💬 Ask me about Applied Data Science, Machine Learning & Deep Learning.
 - 📫 How to reach me:
-    - 📖: [LinkedIn](https://www.linkedin.com/in/charanahu/)
+    - 📝: [LinkedIn](https://www.linkedin.com/in/charanahu/)
     - 📩: [Twitter](https://twitter.com/charan_h_u)
     - 💡: [Medium](https://medium.com/@charanhu)
-    - 📝: [Data Science Simplified](https://charanhu.medium.com/)
     - 🎯: [Projects](https://github.com/charanhu/)
-    - 🔈: [Podcast](https://medium.com/@crtek/)
+    - 🔈: [Podcast](https://anchor.fm/crtek)
     - 📹: [YouTube](https://youtube.com/crtek/)
-- 😄 Pronouns: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://medium.com/@charanhu) and [daily data science tips]
 - ⚡ Fun fact: I am currently sharing a little bit of my knowledge to the world through [my videos](https://youtube.com/crtek) and [daily data science tips]
+- 😄 Pronouns: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://medium.com/@charanhu) and [daily data science tips]
+
 
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
