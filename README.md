@@ -33,7 +33,7 @@ Here are some ideas to get you started: -->
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/1" alt="Recent Article 1">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/2" alt="Recent Article 2">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/3" alt="Recent Article 3">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/4" alt="Recent Article 4">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/4" alt="Recent Article 4">
     
 
 
