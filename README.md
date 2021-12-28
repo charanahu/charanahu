@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[1]: [Twitter](https://twitter.com/KhuyenTran16)
+[1]: [Twitter](https://twitter.com/charan_h_u)
 
 
 
-### Hi there. I'm Khuyen 👋
+### Hi there. I'm Charan 👋
 
 <!--
 **charanhu/charanhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,9 +36,10 @@ Here are some ideas to get you started:
   - [![alt text][1.2]][1][Twitter](https://twitter.com/charan_h_u)
 - 📫 Learn more about me on:  
   - :bulb: [Medium](https://medium.com/@charanhu)
-  - :pencil2: [Data Science Simplified](https://mathdatasimplified.com/)
-  - :dart: [Projects](https://charanhu.github.io/)
-  - :speaker: [Podcast](https://medium.com/@charanhu/why-we-should-be-more-like-winnie-the-pooh-khuyen-tran-on-the-artists-of-data-science-c610c91d4c14)
+  - :pencil2: [Data Science Simplified](https://charanhu.medium.com/)
+  - :dart: [Projects](https://github.com/charanhu/)
+  - :speaker: [Podcast](https://medium.com/@crtek/)
+  - :host: [YouTube](https://youtube.com/crtek/)
 
 
   
