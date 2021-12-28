@@ -25,7 +25,7 @@ Here are some ideas to get you started: -->
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
   
-[![Charan's github stats](https://github-readme-stats.vercel.app/api?username=charanhu&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/charanhu/github-readme-stats)
+[![Charan's github stats](https://github-readme-stats.vercel.app/api?username=charanhu&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
 
 
 ### Check out my latest articles
