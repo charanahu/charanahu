@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://medium.com/@charanhu) and [daily data science tips](https://mathdatasimplified.com/).
 - Connect with me on:
-  - :office: [LinkedIn](https://www.linkedin.com/in/charanahu/)
-  - [![alt text][1.2]][1][Twitter](https://twitter.com/charan_h_u)
+  - :linkedin: [LinkedIn](https://www.linkedin.com/in/charanahu/)
+  - :twitter: [Twitter](https://twitter.com/charan_h_u)
 - 📫 Learn more about me on:  
   - :bulb: [Medium](https://medium.com/@charanhu)
   - :pencil2: [Data Science Simplified](https://charanhu.medium.com/)
