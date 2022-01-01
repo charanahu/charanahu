@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 - 🤔 I’m looking for help with Applied Data Science, Machine Learning & Deep Learning projects.
 - 💬 Ask me about Applied Data Science, Machine Learning & Deep Learning.
 - 📫 How to reach me:
-    - 📝: [LinkedIn](https://www.linkedin.com/in/charanahu/)
+    - 📝: [LinkedIn](https://www.linkedin.com/in/charanhu/)
     - 📩: [Twitter](https://twitter.com/charan_h_u)
     - 💡: [Medium](https://medium.com/@charanhu)
     - 🎯: [Projects](https://github.com/charanhu?tab=repositories)
