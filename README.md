@@ -27,6 +27,9 @@ Here are some ideas to get you started: -->
 ![Charan's github stats](https://github-readme-stats.vercel.app/api?username=charanhu&show_icons=true&theme=radical)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vermakhushboo&layout=compact&theme=calm)](https://github.com/vermakhushboo/github-readme-stats)
+
+
 ### Check out my latest articles
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/1" alt="Recent Article 1">
