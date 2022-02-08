@@ -27,7 +27,7 @@ Here are some ideas to get you started: -->
 ![Charan's github stats](https://github-readme-stats.vercel.app/api?username=charanhu&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&layout=compact&theme=calm)](https://github.com/charanhu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&layout=compact&theme=radical)](https://github.com/charanhu/github-readme-stats)
 
 
 ### Check out my latest articles
