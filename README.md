@@ -24,10 +24,10 @@ Here are some ideas to get you started: -->
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-![Charan's github stats](https://github-readme-stats.vercel.app/api?username=charanhu&show_icons=true&theme=radical)
+![Charan's github stats](https://github-readme-stats.vercel.app/api?username=charanhu1&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&layout=compact&theme=radical)](https://github.com/charanhu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu1&layout=compact&theme=radical)](https://github.com/charanhu1/github-readme-stats)
 
 
 ### Check out my latest articles
