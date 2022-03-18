@@ -1,9 +1,5 @@
 ### Hi there. I'm Charan 👋
 
-<!-- 
-**charanhu/charanhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<!-- 
-Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Applied Data Science, Machine Learning & Deep Learning. I love math, programming, data science, and books.
 - 🌱 I’m addicted to learning, sharing and growing every day. I’m currently learning Applied Data Science, Machine Learning & Deep Learning.
