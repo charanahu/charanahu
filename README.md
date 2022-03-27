@@ -12,8 +12,8 @@
     - 💡: [Medium](https://medium.com/@charanhu)
     - 🎯: [Projects](https://github.com/charanhu?tab=repositories)
     - 🔈: [Podcast](https://open.spotify.com/show/3fiIwaa8YtSBfHRmmbGPzs)
-    - 📹: [YouTube](https://youtube.com/crtek/)
-- ⚡ Fun fact: I am currently sharing a little bit of my knowledge to the world through [my videos](https://youtube.com/LearnWithCharan) and [Daily Data Science and Programing Videos]
+    - 📹: [YouTube](https://youtube.com/CRTEK/)
+- ⚡ Fun fact: I am currently sharing a little bit of my knowledge to the world through [my videos](https://youtube.com/CRTEK) and [Daily Data Science and Programing Videos]
 - 😄 Pronouns: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://charanhu.medium.com/) and [daily data science tips]
 
 
