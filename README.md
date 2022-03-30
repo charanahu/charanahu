@@ -1,7 +1,7 @@
 ### Hi there. I'm Charan 👋
 
 
-- 🔭 I’m currently working on Applied Data Science, Machine Learning & Deep Learning. I love math, programming, data science, and books.
+- 🔭  I’m currently working as Software Engineer Trainee at TietoEvry and also on Applied Data Science, Machine Learning & Deep Learning. I love math, programming, data science, and books.
 - 🌱 I’m addicted to learning, sharing and growing every day. I’m currently learning Applied Data Science, Machine Learning & Deep Learning.
 - 👯 I’m looking to collaborate on Data Science, Machine Learning & Deep Learning.
 - 🤔 I’m looking for help with Applied Data Science, Machine Learning & Deep Learning projects.
