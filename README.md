@@ -1,7 +1,7 @@
 ### Hi there. I'm Charan 👋
 
 
-I’m currently working as Software Engineer at TietoEvry and also on Applied Data Science, Machine Learning & Deep Learning. I love math, programming, data science, and books. I’m addicted to learning, sharing and growing every day. I’m currently learning Applied Data Science, Machine Learning & Deep Learning. I’m looking to collaborate on Data Science, Machine Learning & Deep Learning. I’m looking for help with Applied Data Science, Machine Learning & Deep Learning projects.
+I’m currently working as Software Engineer at TietoEvry and also on Applied Data Science, Machine Learning & Deep Learning. I love math, programming, data science, and books. I’m addicted to learning, sharing and growing every day. I’m currently learning Applied Data Science, Machine Learning & Deep Learning. I’m looking to collaborate on Data Science, Machine Learning & Deep Learning. I’m looking for help with Applied Data Science, Machine Learning & Deep Learning projects. I am currently sharing a little bit of my knowledge to the world through [my YouTube Channel Charan H U](https://youtube.com/channel/UCN2IlH95pQZj-J9PdS2NjIA) and [Daily Data Science and Programing Videos] . I am currently sharing a little bit of my knowledge to the world through [my blogs](https://charanhu.medium.com/) and [daily data science tips]
 
 
 ### Connect with me:
@@ -20,8 +20,7 @@ I’m currently working as Software Engineer at TietoEvry and also on Applied Da
 
 <br>
     
-- ⚡ Fun fact: I am currently sharing a little bit of my knowledge to the world through [my videos](https://youtube.com/CRTEK) and [Daily Data Science and Programing Videos]
-- 😄 Pronouns: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://charanhu.medium.com/) and [daily data science tips]
+I am currently sharing a little bit of my knowledge to the world through [my videos](https://youtube.com/CRTEK) and [Daily Data Science and Programing Videos] . I am currently sharing a little bit of my knowledge to the world through [my blogs](https://charanhu.medium.com/) and [daily data science tips]
 
 
 
