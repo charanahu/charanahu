@@ -19,6 +19,9 @@ I’m currently working as Software Engineer at TietoEvry and also on Applied Da
 </a>     
 
 
+<br>
+<br>
+
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
