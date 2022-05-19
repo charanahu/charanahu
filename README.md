@@ -15,12 +15,12 @@ I’m currently working as Software Engineer at TietoEvry and also on Applied Da
   <a href="https://instagram.com/charanhu1">
     <img align="left" alt="Charan H U | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
+  
+   <a href="https://instagram.com/charanhu1">
+    <img align="left" alt="Charan H U | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medium.svg" />
+  </a>
 
 <a href="https://medium.com/@charanhu" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@charanhu" height="25" width="25" /></a>     
-
-<br>
-    
-I am currently sharing a little bit of my knowledge to the world through [my videos](https://youtube.com/CRTEK) and [Daily Data Science and Programing Videos] . I am currently sharing a little bit of my knowledge to the world through [my blogs](https://charanhu.medium.com/) and [daily data science tips]
 
 
 
