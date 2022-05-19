@@ -3,6 +3,19 @@
 
 I’m currently working as Software Engineer at TietoEvry and also on Applied Data Science, Machine Learning & Deep Learning. I love math, programming, data science, and books. I’m addicted to learning, sharing and growing every day. I’m currently learning Applied Data Science, Machine Learning & Deep Learning. I’m looking to collaborate on Data Science, Machine Learning & Deep Learning. I’m looking for help with Applied Data Science, Machine Learning & Deep Learning projects. I am currently sharing a little bit of my knowledge to the world through [my YouTube Channel Charan H U](https://youtube.com/channel/UCN2IlH95pQZj-J9PdS2NjIA) and [Daily Data Science and Programing Videos] . I am currently sharing a little bit of my knowledge to the world through [my blogs](https://charanhu.medium.com/) and [daily data science tips]
 
+### Technologies & Frameworks I have worked with : 
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/terminal.png"></code>
+
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/charanhu/">
