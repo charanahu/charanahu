@@ -49,7 +49,7 @@ I’m currently working as Software Engineer at TietoEvry and also on Applied Da
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=charanhu1 alt=charanhu1/></p>
 
-### Check out my latest articles
+### Check out my latest Medium Blogs
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/1" alt="Recent Article 1">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/2" alt="Recent Article 2">
