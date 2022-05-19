@@ -7,20 +7,16 @@ I’m currently working as Software Engineer at TietoEvry and also on Applied Da
 ### Connect with me:
 <a href="https://www.linkedin.com/in/charanhu/">
     <img align="left" alt="Charan H U | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-   <a href="https://twitter.com/charan_h_u/">
+</a>
+<a href="https://twitter.com/charan_h_u/">
     <img align="left" alt="Charan H U | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a> 
-
-  <a href="https://instagram.com/charanhu1">
+<a href="https://instagram.com/charanhu1">
     <img align="left" alt="Charan H U | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a>
-  
-   <a href="https://instagram.com/charanhu1">
-    <img align="left" alt="Charan H U | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medium.svg" />
-  </a>
-
-<a href="https://medium.com/@charanhu" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@charanhu" height="25" width="25" /></a>     
+</a>
+<a href="https://medium.com/@charanhu" target="blank">
+    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@charanhu" height="25" width="25" />
+</a>     
 
 
 
