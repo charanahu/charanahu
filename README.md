@@ -25,6 +25,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu1&layout=compact&theme=radical)](https://github.com/charanhu1/github-readme-stats)
 
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=charanhu1 alt=charanhu1/></p>
 
 ### Check out my latest articles
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/0" alt="Recent Article 0"> 
