@@ -18,6 +18,7 @@ I’m currently working as Software Engineer at TietoEvry and also on Applied Da
 
 <a href="https://medium.com/@charanhu" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@charanhu" height="25" width="25" /></a>     
 
+<br>
     
 - ⚡ Fun fact: I am currently sharing a little bit of my knowledge to the world through [my videos](https://youtube.com/CRTEK) and [Daily Data Science and Programing Videos]
 - 😄 Pronouns: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://charanhu.medium.com/) and [daily data science tips]
