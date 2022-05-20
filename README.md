@@ -43,8 +43,7 @@ I’m currently working as Software Engineer at TietoEvry and also on Applied Da
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-![Charan's github stats](https://github-readme-stats.vercel.app/api?username=charanahu&show_icons=true&theme=radical)
-
+[![Charan's github stats](https://github-readme-stats.vercel.app/api?username=charanahu&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanahu&layout=compact&theme=radical)](https://github.com/charanahu/github-readme-stats)
 
