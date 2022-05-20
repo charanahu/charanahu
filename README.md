@@ -45,7 +45,7 @@ I’m currently working as Software Engineer at TietoEvry and also on Applied Da
 
 [![Charan's github stats](https://github-readme-stats.vercel.app/api?username=charanahu&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/charanahu/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanahu&layout=compact&theme=radical)](https://github.com/charanahu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanahu&layout=compact&theme=onedark)](https://github.com/charanahu/github-readme-stats)
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=charanahu alt=charanahu/></p>
 
