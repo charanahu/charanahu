@@ -43,12 +43,12 @@ I’m currently working as Software Engineer at TietoEvry and also on Applied Da
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-![Charan's github stats](https://github-readme-stats.vercel.app/api?username=charanhu1&show_icons=true&theme=radical)
+![Charan's github stats](https://github-readme-stats.vercel.app/api?username=charanahu&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu1&layout=compact&theme=radical)](https://github.com/charanhu1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanahu&layout=compact&theme=radical)](https://github.com/charanahu/github-readme-stats)
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=charanhu1 alt=charanhu1/></p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=charanahu alt=charanahu/></p>
 
 ### Check out my latest Medium Blogs
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/0" alt="Recent Article 0"> 
