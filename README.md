@@ -43,9 +43,9 @@ I’m currently working as Software Engineer at TietoEvry and also on Applied Da
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-[![Charan's github stats](https://github-readme-stats.vercel.app/api?username=charanahu&count_private=true&show_icons=true&theme=highcontrast&hide_rank=false)](https://github.com/charanahu/github-readme-stats)
+[![Charan's github stats](https://github-readme-stats.vercel.app/api?username=charanhu&count_private=true&show_icons=true&theme=highcontrast&hide_rank=false)](https://github.com/charanhu/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanahu&layout=compact&theme=highcontrast)](https://github.com/charanahu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&layout=compact&theme=highcontrast)](https://github.com/charanhu/github-readme-stats)
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=charanahu alt=charanahu/></p>
 
