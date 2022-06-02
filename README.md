@@ -46,7 +46,7 @@ I'm a Software Development Engineer at TietoEvry. Information Science Graduate f
 [![Charan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=charanhu&hide=issues&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/charanhu/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&layout=compact&theme=radical)](https://github.com/charanhu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&layout=compact&theme=highcontrast)](https://github.com/charanhu/github-readme-stats)
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=charanhu alt=charanhu/></p>
 
