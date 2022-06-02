@@ -1,4 +1,4 @@
-### Hi there. I'm Charan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
+### Hi there. I'm Charan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="15px">
 
 
 I'm a Software Development Engineer at TietoEvry. Information Science Graduate from SDM Institute of Technology, Ujire, Mangalore, batch of 2021. I love math, programming, data science, and books. I like to learning, sharing and growing every day. I’m currently learning Applied Data Science, Machine Learning & Deep Learning. I’m looking to collaborate on Data Science, Machine Learning & Deep Learning projects. I am currently sharing a little bit of my knowledge to the world through my YouTube Channel [Charan H U](https://youtube.com/channel/UCN2IlH95pQZj-J9PdS2NjIA) and [Daily Data Science and Programing Videos] . I am currently sharing a little bit of my knowledge to the world through [my blogs](https://charanhu.medium.com/) and [daily data science tips]
