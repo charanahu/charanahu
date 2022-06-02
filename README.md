@@ -29,7 +29,7 @@ I’m currently working as Software Engineer at TietoEvry and also on Applied Da
 <a href="https://twitter.com/charan_h_u/">
     <img align="left" alt="Charan H U | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a> 
-<a href="https://instagram.com/charanhu1">
+<a href="https://instagram.com/charan_h_u">
     <img align="left" alt="Charan H U | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
 </a>
 <a href="https://medium.com/@charanhu" target="blank">
@@ -47,7 +47,7 @@ I’m currently working as Software Engineer at TietoEvry and also on Applied Da
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&layout=compact&theme=highcontrast)](https://github.com/charanhu/github-readme-stats)
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=charanahu alt=charanahu/></p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=charanhu alt=charanhu/></p>
 
 ### Check out my latest Medium Blogs
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/0" alt="Recent Article 0"> 
