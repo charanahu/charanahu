@@ -43,7 +43,7 @@ I'm a Software Development Engineer at TietoEvry. Information Science Graduate f
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-[![Charan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=charanhu&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/charanhu/github-readme-stats)
+[![Charan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=charanhu&hide=issues&count_private=true&show_icons=true&theme=dark)](https://github.com/charanhu/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&layout=compact&theme=calm)](https://github.com/charanhu/github-readme-stats)
