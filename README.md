@@ -13,12 +13,9 @@ I'm a Applied Machine Learning Engineer at TietoEvry. Information Science Gradua
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 [![Charan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=charanhu&hide=issues&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/charanhu/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&layout=compact&theme=highcontrast&langs_count=2&&hide=html)](https://github.com/charanhu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&layout=compact&theme=highcontrast&langs_count=4&&hide=html)](https://github.com/charanhu/github-readme-stats)
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=charanhu alt=charanhu/></p>
-
-<!-- Top langs hide html-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&layout=compact&theme=highcontrast&langs_count=2&hide=html)](
 
 ## Check out my latest Medium Blogs
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/0" alt="Recent Article 0"> 
