@@ -1,25 +1,7 @@
 ### Hi. I'm Charan
 
 
-I'm a Applied Machine Learning Engineer at TietoEvry. Information Science Graduate from SDM Institute of Technology, Ujire, Mangalore, batch of 2021. I love math, programming, data science, and books. I like to learning, sharing and growing every day. I’m currently learning Applied Data Science, Machine Learning & Deep Learning. I’m looking to collaborate on Data Science, Machine Learning & Deep Learning projects. I am currently sharing a little bit of my knowledge to the world through my YouTube Channels [Charan H U](https://youtube.com/@CharanHU) and [Charan H U English](https://youtube.com/@CharanHUEnglish) and [Daily Data Science and Programing Videos] . I am currently sharing a little bit of my knowledge to the world through [Medium Blogs](https://charanhu.medium.com/) and also as author of the Book [Applied Machine Learning Fundamentals](https://charanhu.github.io/Applied_Machine_Learning_Fundamentals)
-
-### Technologies & Frameworks I have worked with : 
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
+I'm a Applied Machine Learning Engineer at TietoEvry. Information Science Graduate from SDM Institute of Technology, Ujire, Mangalore, batch of 2021. I love math, programming, data science, and books. I like to learning, sharing and growing every day. As a machine learning engineer, I am passionate about solving problems and staying up to date with the latest research in the field. I try my best to keep up with advances in data science and machine learning, and I enjoy learning about new developments and engaging with other professionals in the field. I am currently sharing a little bit of my knowledge to the world through my YouTube Channels [Charan H U](https://youtube.com/@CharanHU) and [Charan H U English](https://youtube.com/@CharanHUEnglish). I am currently sharing a little bit of my knowledge to the world through [Medium Blogs](https://charanhu.medium.com/) and also as author of the Book [Applied Machine Learning Fundamentals](https://charanhu.github.io/Applied_Machine_Learning_Fundamentals)
 
 
 ### Connect with me:
