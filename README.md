@@ -8,8 +8,8 @@ I'm a Applied Machine Learning Engineer at TietoEvry. Information Science Gradua
 - Learn more about me on:  
   - [Medium](https://medium.com/@khuyentran1476)
   - [Data Science Simplified](https://mathdatasimplified.com/)
-  - [YouTube Kannada](https://www.youtube.com/@CharanHU)
-  - [YouTube English](https://www.youtube.com/@CharanHUEnglish)
+  - [YouTube (Kannada)](https://www.youtube.com/@CharanHU)
+  - [YouTube (English)](https://www.youtube.com/@CharanHUEnglish)
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 [![Charan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=charanhu&hide=issues&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/charanhu/github-readme-stats)
