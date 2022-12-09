@@ -6,10 +6,10 @@ I'm a Applied Machine Learning Engineer at TietoEvry. Information Science Gradua
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/charanhu/"><img align="left" alt="Charan H U | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" /></a>
-<a href="https://twitter.com/charan_h_u/"><img align="left" alt="Charan H U | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" /></a> 
-<a href="https://instagram.com/charan_h_u"><img align="left" alt="Charan H U | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" /></a>
-<a href="https://medium.com/@charanhu" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@charanhu" height="25" width="25" /></a>     
+<a href="https://www.linkedin.com/in/charanhu/"><img align="left" alt="Charan H U | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/></a>
+<a href="https://twitter.com/charan_h_u/"><img align="left" alt="Charan H U | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg"/></a> 
+<a href="https://instagram.com/charan_h_u"><img align="left" alt="Charan H U | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"/></a>
+<a href="https://medium.com/@charanhu" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@charanhu" height="25" width="25"/></a>     
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
