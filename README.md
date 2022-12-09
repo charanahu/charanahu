@@ -6,8 +6,7 @@ I'm a Applied Machine Learning Engineer at TietoEvry. Information Science Gradua
   - [LinkedIn](https://www.linkedin.com/in/charanhu/)
   - [Twitter](https://twitter.com/charan_h_u)
 - Learn more about me on:  
-  - [Medium](https://medium.com/@khuyentran1476)
-  - [Data Science Simplified](https://mathdatasimplified.com/)
+  - [Medium](https://charanhu.medium.com/)
   - [YouTube Chaneel (Kannada)](https://www.youtube.com/@CharanHU)
   - [YouTube Channel (English)](https://www.youtube.com/@CharanHUEnglish)
 
