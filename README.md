@@ -32,4 +32,4 @@ I'm a Applied Machine Learning Engineer at TietoEvry. Information Science Gradua
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/4" alt="Recent Article 4">
     
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
