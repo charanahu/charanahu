@@ -2,7 +2,7 @@
 
 I'm a Applied Machine Learning Engineer at TietoEvry. Information Science Graduate from SDM Institute of Technology, Ujire, Mangalore, batch of 2021. I love math, programming, data science, and books. I like to learning, sharing and growing every day. As a machine learning engineer, I am passionate about solving problems and staying up to date with the latest research in the field. I try my best to keep up with advances in data science and machine learning, and I enjoy learning about new developments and engaging with other professionals in the field. I am currently sharing a little bit of my knowledge to the world through my YouTube Channels [Charan H U](https://youtube.com/@CharanHU) and [Charan H U English](https://youtube.com/@CharanHUEnglish). I am currently sharing a little bit of my knowledge to the world through [Medium Blogs](https://charanhu.medium.com/) and also as author of the Book [Applied Machine Learning Fundamentals](https://charanhu.github.io/Applied_Machine_Learning_Fundamentals)
 
-## Connect with me on:
+- Connect with me on:
   - [LinkedIn](https://www.linkedin.com/in/charanhu/)
   - [Twitter](https://twitter.com/charan_h_u)
 - Learn more about me on:  
