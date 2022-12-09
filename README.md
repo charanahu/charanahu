@@ -15,8 +15,6 @@ I'm a Applied Machine Learning Engineer at TietoEvry. Information Science Gradua
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&layout=compact&theme=highcontrast)](https://github.com/charanhu/github-readme-stats)
 
-![](https://api.githubtrends.io/user/svg/charanhu/langs?time_range=one_year&include_private=True&theme=classic)
-
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=charanhu alt=charanhu/></p>
 
 ## Check out my latest Medium Blogs
