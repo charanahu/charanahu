@@ -1,4 +1,4 @@
-### Hi. I'm Charan
+# Charan H U
 
 
 I'm a Applied Machine Learning Engineer at TietoEvry. Information Science Graduate from SDM Institute of Technology, Ujire, Mangalore, batch of 2021. I love math, programming, data science, and books. I like to learning, sharing and growing every day. As a machine learning engineer, I am passionate about solving problems and staying up to date with the latest research in the field. I try my best to keep up with advances in data science and machine learning, and I enjoy learning about new developments and engaging with other professionals in the field. I am currently sharing a little bit of my knowledge to the world through my YouTube Channels [Charan H U](https://youtube.com/@CharanHU) and [Charan H U English](https://youtube.com/@CharanHUEnglish). I am currently sharing a little bit of my knowledge to the world through [Medium Blogs](https://charanhu.medium.com/) and also as author of the Book [Applied Machine Learning Fundamentals](https://charanhu.github.io/Applied_Machine_Learning_Fundamentals)
@@ -32,6 +32,8 @@ I'm a Applied Machine Learning Engineer at TietoEvry. Information Science Gradua
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&layout=compact&theme=highcontrast)](https://github.com/charanhu/github-readme-stats)
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=charanhu alt=charanhu/></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ### Check out my latest Medium Blogs
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@charanhu/0" alt="Recent Article 0"> 
