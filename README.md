@@ -11,8 +11,8 @@ I'm a Applied Machine Learning Engineer. Information Science Graduate from SDM I
   - [YouTube Channel (English)](https://www.youtube.com/@CharanHUEnglish)
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-[![Charan H U's GitHub Stats](https://github-readme-stats.vercel.app/api?username=charanhu&hide=issues&count_private=true&show_icons=true&theme=radical)](https://github.com/charanhu/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&layout=compact&theme=radical)](https://github.com/charanhu/github-readme-stats)
+[![Charan H U's GitHub Stats](https://github-readme-stats.vercel.app/api?username=charanhu&hide=issues&count_private=true&show_icons=true&theme=dark)](https://github.com/charanhu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanhu&layout=compact&theme=dark)](https://github.com/charanhu/github-readme-stats)
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=charanhu alt=charanhu/></p>
 
