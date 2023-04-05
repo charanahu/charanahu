@@ -5,7 +5,6 @@ I'm a Applied Machine Learning Engineer. Information Science Graduate from SDM I
 [![GitHub charanhu](https://img.shields.io/github/followers/charanhu?label=follow&style=social)](https://github.com/vermakhushboo)
 [![Linkedin: Charan H U](https://img.shields.io/badge/-Charan%20H%20U-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charanhu/)](https://www.linkedin.com/in/charanhu/)
 [![Twitter: Charan H U](https://img.shields.io/twitter/follow/charan_h_u?style=social)](https://twitter.com/charan_h_u)
-[![Twitter: Charan H U](https://img.shields.io/youtube/?style=social)](https://youtube.com/@CharanHU)
 [![Medium Badge](https://img.shields.io/badge/-@Charan%20H%20U-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@charanhu)](https://medium.com/@charanhu)
 [![Polywork Badge](https://img.shields.io/badge/-Charan%20H%20U-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/charanhu)](http://polywork.com/charanhu)
 
