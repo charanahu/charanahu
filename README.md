@@ -5,8 +5,8 @@ I'm a Applied Machine Learning Engineer. Information Science Graduate from SDM I
 [![GitHub charanhu](https://img.shields.io/github/followers/charanhu?label=follow&style=social)](https://github.com/vermakhushboo)
 [![Linkedin: Charan H U](https://img.shields.io/badge/-Charan%20HU-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charanhu/)](https://www.linkedin.com/in/charanhu/)
 [![Twitter: Charan H U](https://img.shields.io/twitter/follow/charan_h_u?style=social)](https://twitter.com/charan_h_u)
-[![Medium Badge](https://img.shields.io/badge/-@Charan%20HU-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@charanhu)](https://medium.com/@charanhu)
-[![Polywork Badge](https://img.shields.io/badge/-khushbooverma-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/charanhu)](http://polywork.com/charanhu)
+[![Medium Badge](https://img.shields.io/badge/-@Charan%20H%20U-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@charanhu)](https://medium.com/@charanhu)
+[![Polywork Badge](https://img.shields.io/badge/-Charan%20H%20U-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/charanhu)](http://polywork.com/charanhu)
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 [![Charan H U's GitHub Stats](https://github-readme-stats.vercel.app/api?username=charanhu&hide=issues&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/charanhu/github-readme-stats)
